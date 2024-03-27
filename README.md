@@ -1,1 +1,1 @@
-# second_kekw
+This repository carried has my first web development project.
